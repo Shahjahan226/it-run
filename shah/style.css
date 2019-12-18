@@ -1,0 +1,15 @@
+img {
+    position: center;
+
+}
+h1{
+    padding-left: 250px;
+}
+h2{
+    position: absolute;
+    padding-left: 750px;
+    top: 850px;
+}
+a:hover{
+    text-decoration: none;
+}
